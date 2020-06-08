@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html lang="en" data-theme="light">
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <title>Updates</title>
+
+    <link charset="utf-8" rel="stylesheet" type="text/css" href="static/base.css" />
+    <link charset="utf-8" rel="stylesheet" type="text/css" href="static/updates.css" />
+    
+    <script type="text/javascript" charset="utf-8" src="static/updates.js"></script>
+    <script type="text/javascript" charset="utf-8" src="static/integration.js"></script>
+    
+</head>
+
+<body class="grouping">
+    <div id="page">
+        <div id="wrapper">
+            <div id="content">
+                <div class="background"></div>
+                <div id="updates" class="main">
+                    <div id="os-and-app-updates"
+                         class="lockup-container installations updates">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th colspan="3">
+                                        <div class="non-scan-progress">
+                                            <span id="update-count-string">1 pending update</span>
+                                            &nbsp;
+                                            <span class="warning" id="update-warning-text">
+                                                
+                                            </span>
+                                            <div class='progress-spinner hidden' id="updates-progress-spinner"></div>
+                                            <div class="msc-button install-updates in-header">
+                                                <button class="button-area uppercase"
+                                                        onClick="window.webkit.messageHandlers.installButtonClicked.postMessage('');">
+                                                    <div class="msc-button-inner install-updates "
+                                                         id='install-all-button-text'>
+                                                        Update
+                                                    </div>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </th>
+                                </tr>
+                           </thead>
+                           <tbody></tbody>
+                        </table>
+                        <div id="os-updates" class='lockup-container installations updates'>
+                            <table class="no-header">
+                                <tbody id="updates-to-install-table">
+                                    <tr class="installation" id="Command Line Tools_update_table_row">
+  <td>
+    <a href="munki://updatedetail-Command%20Line%20Tools--version-10.2.1.0.1.1554506761.html" class="artwork-link">
+      <div class="artwork">
+        <img width="75" height="75" alt="Apple Command Line Tools" class="artwork" src="icons/42.png">
+      </div>
+    </a>
+    <ul class="list info">
+        <li><h2><a title="Apple Command Line Tools" href="munki://updatedetail-Command%20Line%20Tools--version-10.2.1.0.1.1554506761.html">Apple Command Line Tools</a></h2></li>
+        <li>Apple</li>
+        <li>Version 10.2.1.0.1.1554506761</li>
+        <li class="warning"></li>
+    </ul>
+  </td>
+  <td>
+    <p class="description" data-text-truncate-lines="4">
+      Command Line Tools
+      <a class="text-truncate-toggle hidden" href="#">More</a>
+    </p>
+  </td>
+  <td class="hidden">
+      <button title="Cancel install" class="cancel-or-add" aria-label="Cancel install"
+          onClick="window.webkit.messageHandlers.updateOptionalInstallButtonClicked.postMessage('Command Line Tools');"></button>
+  </td>
+</tr>
+
+                                </tbody>
+                             </table>
+                        </div>
+                    </div>
+                    <div id="problem-updates"
+                        class="lockup-container installations updates hidden">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th colspan="3">
+                                        <div class="non-scan-progress">
+                                            Problem updates
+                                        </div>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody id="problem-updates-table">
+                                
+                            </tbody>
+                        </table>
+                    </div>
+                    <div id="other-updates"
+                         class="lockup-container installations updates hidden">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th colspan="3">
+                                        <div class="non-scan-progress">
+                                            Other available updates
+                                        </div>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody id="other-updates-table">
+                                
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="bottom-links">
+    <ul class="list" role="presentation">
+        <li><a href="munki://category-all">Software</a></li>
+        <li><a href="munki://categories">Categories</a></li>
+        <li><a href="munki://updates">Updates</a></li>
+    </ul>
+</div>
+
+    </footer>
+
+</body>
+</html>
+                    

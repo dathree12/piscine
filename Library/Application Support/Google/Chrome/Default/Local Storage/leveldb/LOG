@@ -1,0 +1,36 @@
+2020/05/25-13:26:45.995 11e03 Reusing MANIFEST /Users/daspark/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/25-13:26:46.002 11e03 Recovering log #3
+2020/05/25-13:26:46.004 11e03 Reusing old log /Users/daspark/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/000003.log 
+2020/05/25-13:26:51.552 160b Level-0 table #5: started
+2020/05/25-13:26:51.564 160b Level-0 table #5: 13336 bytes OK
+2020/05/25-13:26:51.572 160b Delete type=0 #3
+2020/05/25-14:47:59.536 160b Level-0 table #7: started
+2020/05/25-14:47:59.567 160b Level-0 table #7: 16068 bytes OK
+2020/05/25-14:47:59.575 160b Delete type=0 #4
+2020/05/25-16:50:53.626 160b Level-0 table #9: started
+2020/05/25-16:50:53.635 160b Level-0 table #9: 17053 bytes OK
+2020/05/25-16:50:53.644 160b Delete type=0 #6
+2020/05/25-17:33:03.612 160b Level-0 table #11: started
+2020/05/25-17:33:03.621 160b Level-0 table #11: 68558 bytes OK
+2020/05/25-17:33:03.630 160b Delete type=0 #8
+2020/05/25-18:17:12.117 160b Level-0 table #13: started
+2020/05/25-18:17:12.123 160b Level-0 table #13: 12299 bytes OK
+2020/05/25-18:17:12.131 160b Delete type=0 #10
+2020/05/25-18:55:14.276 160b Level-0 table #15: started
+2020/05/25-18:55:14.297 160b Level-0 table #15: 14012 bytes OK
+2020/05/25-18:55:14.337 160b Delete type=0 #12
+2020/05/25-18:55:14.337 160b Compacting 4@0 + 1@1 files
+2020/05/25-18:55:14.362 160b Generated table #16@0: 431 keys, 93207 bytes
+2020/05/25-18:55:14.362 160b Compacted 4@0 + 1@1 files => 93207 bytes
+2020/05/25-18:55:14.376 160b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/25-18:55:14.376 160b Delete type=2 #7
+2020/05/25-18:55:14.376 160b Delete type=2 #9
+2020/05/25-18:55:14.376 160b Delete type=2 #11
+2020/05/25-18:55:14.376 160b Delete type=2 #13
+2020/05/25-18:55:14.376 160b Delete type=2 #15
+2020/05/25-19:48:35.507 160b Level-0 table #18: started
+2020/05/25-19:48:35.513 160b Level-0 table #18: 13500 bytes OK
+2020/05/25-19:48:35.521 160b Delete type=0 #14
+2020/05/25-20:49:43.146 160b Level-0 table #20: started
+2020/05/25-20:49:43.152 160b Level-0 table #20: 16465 bytes OK
+2020/05/25-20:49:43.159 160b Delete type=0 #17

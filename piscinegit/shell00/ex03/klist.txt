@@ -1,0 +1,5 @@
+Credentials cache: API:6849DE12-A782-4526-B031-9BC79F091799
+        Principal: daspark@42SEOUL.KR
+
+  Issued                Expires               Principal
+May 25 16:36:45 2020  May 26 02:36:41 2020  krbtgt/42SEOUL.KR@42SEOUL.KR

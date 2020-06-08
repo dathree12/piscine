@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>osUpdates</key>
+	<dict>
+		<key>061-61260</key>
+		<dict>
+			<key>abortBundleID</key>
+			<string>com.apple.Safari</string>
+			<key>abortCode</key>
+			<integer>100</integer>
+			<key>abortReason</key>
+			<string>the Update requires com.apple.Safari to be quit but it is considered to always be immortal in 10.13 and later</string>
+			<key>productKey</key>
+			<string>061-61260</string>
+			<key>shouldInstall</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>runDate</key>
+	<date>2020-05-25T10:01:33Z</date>
+</dict>
+</plist>

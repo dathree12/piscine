@@ -1,0 +1,5 @@
+2020/05/25-13:29:54.943 df2b Recovering log #3
+2020/05/25-13:29:54.944 df2b Level-0 table #5: started
+2020/05/25-13:29:55.000 df2b Level-0 table #5: 640 bytes OK
+2020/05/25-13:29:55.028 df2b Delete type=0 #3
+2020/05/25-13:29:55.028 df2b Delete type=3 #2

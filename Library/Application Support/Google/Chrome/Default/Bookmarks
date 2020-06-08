@@ -1,0 +1,40 @@
+{
+   "checksum": "4e08e99d3a3b522c58fc5e21921d07f1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13234856396188618",
+            "guid": "94107fe2-794c-42e4-a2a8-fd802add1502",
+            "id": "5",
+            "name": "jsd",
+            "type": "url",
+            "url": "https://pdseulpace.tistory.com/manage/newpost/?type=post&returnURL=%2Fmanage%2Fposts%2F"
+         } ],
+         "date_added": "13234854404865653",
+         "date_modified": "13234856396188618",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "북마크바",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13234854404865671",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "기타 북마크",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13234854404865673",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "모바일 북마크",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

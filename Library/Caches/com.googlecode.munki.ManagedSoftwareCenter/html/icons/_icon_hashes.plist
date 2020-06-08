@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>42.png</key>
+	<string>a5568dea447e0120c4bc9d5665a9bee28cab65384a89db5c65a5105300db2700</string>
+	<key>Adium.png</key>
+	<string>2bcc502df1f8dbcfad7f5f1567d24fe886f48049c259eccfc3235b717ffcdc38</string>
+	<key>Aegisub.png</key>
+	<string>d2f843cfec7394864296b7139b6662a3b911127e70d07e3f3246b2a71a8fba37</string>
+	<key>Alfred 3.png</key>
+	<string>875d1793060ab8c3384a328aaf328abbcbc5f0fd4ae90666e27c63ae6ac36072</string>
+	<key>Android File Transfer.png</key>
+	<string>39cfc4320d176ad03f08eead21c6e49e1e4590c28f4053b4a5a05e7495c821f0</string>
+	<key>Android Studio.png</key>
+	<string>ae4819fc6535122621cbcd682c9c5a57e19489c605117b947f63f6d55d4bd904</string>
+	<key>AppCode.png</key>
+	<string>dfff4e15cf061aa8292d6bf416e8bef1a3dceb7d20c3f49c7e8cbc8125f26010</string>
+	<key>Arduino.png</key>
+	<string>ec17d4bbf65a091b7415b428d7b4817e4d8c9a693184798bd088bc194ac548a0</string>
+	<key>Atom.png</key>
+	<string>117763957fda209734b424c496c081ac66909216d996190f1c62bf3ea89f72ca</string>
+	<key>Audacity.png</key>
+	<string>7b0d1affd76d066e4857b7299350166b173c74e223667aa231f4b0f35279c5e7</string>
+	<key>Audio Hijack.png</key>
+	<string>4f58c2a5a9aaf6f9386558fc22bc87eab1797be723f9a93928252364d67b5796</string>
+	<key>BetterTouchTool.png</key>
+	<string>d0cfcb51173c6617a85a62ab556b983f63c3220e10d2c9102a7695bef4bfc7d9</string>
+	<key>Blender.png</key>
+	<string>ce5ae1db41c31b89799c932c8b1ad0b67a2d02481062ee71ae1ea3386ebfdeed</string>
+	<key>Brackets.png</key>
+	<string>bbd895ae167c7e641eb1122b72f3767bc4c68e12352417d2a407322db992db5e</string>
+	<key>Brave.png</key>
+	<string>8d09a7cbd2418e970de01a7110630a507124d7e439d9cdc97aec8e30f98e6df5</string>
+	<key>CLion.png</key>
+	<string>4dc7cce57255a0ce9746f9cddca17780ec40643b377ad07d28d2aa0d3c44fd4a</string>
+	<key>CUDA.png</key>
+	<string>880457bd6d4cd61bd4edfbf7a1b07cd854fa1d024c62c5349efafb703b1451b1</string>
+	<key>Chrome.png</key>
+	<string>d01c9ca832a5ace10503b010961532664626df0f1bd86320116b7beb93b3e27c</string>
+	<key>CocoaDialog.png</key>
+	<string>6e14f0c3569e2bbc27e295331564f488090d7510fdcf270bfb0a70fdaa75a38d</string>
+	<key>Dash.png</key>
+	<string>13c6047d128d03a04efa3ab3f81e62d7e10e9888e31236cf5257077926ab5c17</string>
+	<key>DataGrip.png</key>
+	<string>6f08b33b9a9814f4133c57bd1f90eca85ab1f1946b1cf1a02f85144a35811263</string>
+	<key>Deezer.png</key>
+	<string>7545469769aa8a1421939181cf2fa111fcb8aff0261242d45e88ef97fe383adf</string>
+	<key>Discord.png</key>
+	<string>79efab589529cc8bb3e911ec30a3febf046d955a426fe4a4559d5a5bfec75aa3</string>
+	<key>Docker.png</key>
+	<string>2f0bb642b5baaf256702d66de842016df76c88df06bdaaf51fb7bb51282e4221</string>
+	<key>DropTask.png</key>
+	<string>ef49a15251091d579756b7c7b82106115bfbb7bb26d4dcb653935c114cd21761</string>
+	<key>Dropbox.png</key>
+	<string>50324edf1c681e234704875cd483d7d3e16970d68ca1c7a8b95bdd09bec2852b</string>
+	<key>Eclipse-inst.png</key>
+	<string>0256c12dd7c6457aa4073a46951d87453950279858a715b2730472e45ecb95e1</string>
+	<key>Etcher.png</key>
+	<string>59823d611b503b4e586254110a86a4ab65c52bba18a412d2b65cf46fa96dd6e6</string>
+	<key>Evernote.png</key>
+	<string>64ebfb07133c886b5927dcb8839b9b7634037b056817ddf569c9ca536f3c5b92</string>
+	<key>FileZilla.png</key>
+	<string>40dda22d8ef1325ea905ba9bc66a686f06e4ce16c3d6562e54323e33d4e8cc87</string>
+	<key>Firefox Developer Edition.png</key>
+	<string>93b9634c15d0a4a763bf40bcd3aac07b0cd020c053459c63b444362f57985567</string>
+	<key>Firefox Nightly.png</key>
+	<string>9d8ee1a6e5925a5ec7c808d162090fda8035a5c78f0bdbfd35ba26948dca773d</string>
+	<key>Firefox.png</key>
+	<string>888bc90c40e34598dbab8dbf6eabe1aa4766d8fc8c7b41bba17e4a06725fcb02</string>
+	<key>Flux.png</key>
+	<string>b8237e7c6b87c808d147ac0cb7dc52096c8581bb7e524e569bc1d2dc7868dae5</string>
+	<key>Franz.png</key>
+	<string>f129d74ceea2185bfa44395f25c2a84111f64b8a41787af047d537d5c566275f</string>
+	<key>GIMP.png</key>
+	<string>d9f01cb22a020dbb2589e9f9c7890bfafa0a8e4f81dd6e6c8f2ed91ad2479dee</string>
+	<key>GitKraken.png</key>
+	<string>6c1e1dfb58f9cc39501999d9a567cdf1acd1e50eef16500e1e480b1594eb73ef</string>
+	<key>GoLand.png</key>
+	<string>353bf18601dba26db5438ea3c6e972a403ca0dde0367935f2d50fc15dc0858d2</string>
+	<key>Goofy.png</key>
+	<string>a2e70a573b9cc77dc8c63d4fe2da7b18efff0c69a1a9dbc1cf2314d6d5e7fd06</string>
+	<key>GrandPerspective.png</key>
+	<string>50d499fe80d14a5e6dd19ab0eb6c95b4a365ff7945ac8b06eff1148ae632e749</string>
+	<key>Gyazo.png</key>
+	<string>06a8b3de2fcd0a8cfe4ea24cc0b16856f6fff70a3333213db4f56e1165dc3899</string>
+	<key>Hopper Disassembler v4.png</key>
+	<string>1938b8ce7b0f50ff65e3a58526aef427b8b3be385d88be305ba5ac1d95d0ae5e</string>
+	<key>IntelliJ IDEA.png</key>
+	<string>c4364661ac4ad5c15fadb4d46af4b7653d3344cea967d7fc5d9ef3b40d3a3e12</string>
+	<key>JDK 8 Update_1.png</key>
+	<string>85d6f9a6175ed5303b108799634ec4ad0a6b8964f1b8e521c8df0fc2253d1637</string>
+	<key>JDK 8 Update_2.png</key>
+	<string>81cbf748dca6ecb643b77448aa8850b316ea073c03e246842185f911b3cdfc82</string>
+	<key>JDK 8 Update_3.png</key>
+	<string>a47bf501793dde240c4ecb1e3fb6cc6411ee2059b65e0d4c24051cbdac46bfb1</string>
+	<key>Java Runtime Environment.png</key>
+	<string>1f4b65267f7cf01f660e745297e3c413219ee26cae1a46724a0142d773f5c441</string>
+	<key>JetBrains Rider.png</key>
+	<string>4e48651119e4e98f2ae6c0f5d6579e1a6ed753dcccdaa01f46dcdbf12e14655c</string>
+	<key>Keybase.png</key>
+	<string>50e39b97ec1eaebc93f7322f86f779fbef3e90e275f6beb7cf88bc7a2229a089</string>
+	<key>MAMP_1.png</key>
+	<string>5f2e1fd8a47928670d27b8e690407f7abeb3a39a938b18b746df41e4505f1156</string>
+	<key>MAMP_2.png</key>
+	<string>9ce9f331c684f44517281c3d2cf3c2e5bc9dbf02c4465b3b5febc074c82425aa</string>
+	<key>MAMP_3.png</key>
+	<string>e4585e7d16eb928273199bad9de97f5b164394a6d4cbf53a9becf64ecc4f389b</string>
+	<key>MAMP_4.png</key>
+	<string>a63a366ef03ae93aa3d3187fd38caa4dd7d81d5b0f1b0ccb937386cffe8d721f</string>
+	<key>MacDown.png</key>
+	<string>5eefeeecb68a6455da85996397b8beb0374a60bc9406332451d9c6e2cb2da06b</string>
+	<key>MacJREInstaller.png</key>
+	<string>1f4b65267f7cf01f660e745297e3c413219ee26cae1a46724a0142d773f5c441</string>
+	<key>Microsoft Remote Desktop.png</key>
+	<string>96eee50b6f2b8b11b7ce827ef5da764621baf566cf7938f8f626abba762579c4</string>
+	<key>Notion.png</key>
+	<string>beb9f12e07eeb64133b467bab7e3696762a5fd5e85c9d50782b1cd7e28827265</string>
+	<key>OpenOffice.png</key>
+	<string>c14ddddcb6deae04bd064f8feb8c92fc1aadf23af9e405f2109140ffc58a0abf</string>
+	<key>Opera Installer.png</key>
+	<string>f1c09f9567e0c5f262218795305a32840c2648feaacb2db69679a539e11abc10</string>
+	<key>PhpStorm.png</key>
+	<string>dba0b45f3cd818c57386c65060774862d51ded826fe046be33f46003461c5b66</string>
+	<key>Postman.png</key>
+	<string>df3ba89d25895f12a7d36911b2a6820314a6d457e9cef19d098b8d5c510b0e3e</string>
+	<key>PyCharm.png</key>
+	<string>92f96c300e1e84bd2db052f4c5be6c67f77279eece3cbac5faedcef6656b4a2d</string>
+	<key>RubyMine.png</key>
+	<string>5b6a2a9e9c1e4ecd32f24a28576d4b1f16468a63a5e78ded8e56cbbbc4793a9c</string>
+	<key>Skype.png</key>
+	<string>ce3b5e98286819545b2c5ceba857e9dc47c2761ce7d2d1f5814e3204d87190a7</string>
+	<key>Slack.png</key>
+	<string>ab6aecafbffb3afc20de3611c8eb00dbbec2af92625436868c4faebff411d019</string>
+	<key>Spectacle.png</key>
+	<string>7e75bd90a847b7a69673c65513c709f3bc1c8dd4994d960b30d63d5e3c644018</string>
+	<key>Spotify.png</key>
+	<string>9979ea178f541acb9ef527ec79544c77e481ad539190f8cfe6d86a4a19023f4b</string>
+	<key>Sublime Text.png</key>
+	<string>5dd66bbdd98a09e99ec900b10c09f37e86c30b34df9eb7e7bdd30d03caedf4b7</string>
+	<key>TIDAL.png</key>
+	<string>e8032c023e7b70f5b101db59d05e1a29c0b77a61b83d6d66c594835e5d629422</string>
+	<key>TeamSpeak 3.png</key>
+	<string>b57dabeb2effb4324ea0f0410b253da0f154e3fde08eeab21158adb2c4b1e588</string>
+	<key>Teams.png</key>
+	<string>4281215808ad4112256b38b74a309327d811e46a22d32d09a76db3ec928e8503</string>
+	<key>Telegram.png</key>
+	<string>a45149c3b438267746423c1d0c680f6a0d123e0119f69572601714517a256aff</string>
+	<key>The Unarchiver.png</key>
+	<string>7601a0e345de66a36238c2456284c6ffc15115f2726177c1e6a15ff9d4936c75</string>
+	<key>Todoist.png</key>
+	<string>6a157c8286516f59e24168eec3bdddc6a30ba3701f96444266400d5d7380d331</string>
+	<key>Unity.png</key>
+	<string>cfd5a48c32de52ddd33438b4460df953aa2123183b727a25910510b5e95e2a15</string>
+	<key>VLC media player.png</key>
+	<string>8ff0c7389d6672b5c6124a744f6c484ca6b7159917b40509a0e01b30b303aba7</string>
+	<key>VirtualBox.png</key>
+	<string>79cba511b0c95be189b52c12fafbdf103c94dd3f93933ab069830440bc25f854</string>
+	<key>VirtualBox_1.png</key>
+	<string>fcf80dbde4e25a9fb3f41131ea8571045138cca02c4dafd168dcdc12eee4d734</string>
+	<key>VirtualBox_2.png</key>
+	<string>fcf80dbde4e25a9fb3f41131ea8571045138cca02c4dafd168dcdc12eee4d734</string>
+	<key>VirtualBox_3.png</key>
+	<string>fcf80dbde4e25a9fb3f41131ea8571045138cca02c4dafd168dcdc12eee4d734</string>
+	<key>Visual Studio Code.png</key>
+	<string>afe3e3ac4a8d72364f6e9df30bd0075d7576b2414668b18b939d108cf0e84a80</string>
+	<key>Visual Studio.png</key>
+	<string>6a7a86d566017b95ffd8be7892a507eb3cf59fef9ea293e9ef57fd3a68135454</string>
+	<key>Vivaldi.png</key>
+	<string>1823ce61723d08b89be5be643a19eff32dc079470029a5226584842cab23a20d</string>
+	<key>WebStorm.png</key>
+	<string>49356bf9210182baf4160a13fd40f8acb668b5b558ccb6ac095df9015677cd33</string>
+	<key>WhatsApp.png</key>
+	<string>5e6725c87898c7794c325a949bd8a6b172298304b9881d98aa8a7dced18dc09a</string>
+	<key>Xcode.png</key>
+	<string>5994f3cf45cd1827a56c2dc066882c656c6826867bdbb826809a26fe281d936a</string>
+	<key>iTerm2.png</key>
+	<string>5cc7be034ed5ee6de137e6160f603cbd003f8bd82958270fec9be34955003669</string>
+	<key>munkitools_1.png</key>
+	<string>27ee04e120982733df3c14b038e0b8dba222c3bab69cac7a01c271339678dd03</string>
+	<key>munkitools_2.png</key>
+	<string>27ee04e120982733df3c14b038e0b8dba222c3bab69cac7a01c271339678dd03</string>
+	<key>slack.icns</key>
+	<string>a6a1f3bc6ece4963d3af00c84a32f3c02f5972359f5cd1f90a3e55147b773c79</string>
+</dict>
+</plist>
