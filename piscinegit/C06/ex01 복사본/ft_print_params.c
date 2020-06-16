@@ -6,7 +6,7 @@
 /*   By: daspark <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/14 21:17:08 by daspark           #+#    #+#             */
-/*   Updated: 2020/06/14 21:25:06 by daspark          ###   ########.fr       */
+/*   Updated: 2020/06/15 14:42:59 by daspark          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,11 +29,12 @@ int	main(int argc, char **argv)
 {
 	int num;
 
-	if (argc)
+	num = 1;
+	while (num < argc)
 	{
-		while()
 		write(1, argv[num], ft_strlen(argv[num]));
 		write(1, "\n", 1);
+		num++;
 	}
 	return (0);
 }
